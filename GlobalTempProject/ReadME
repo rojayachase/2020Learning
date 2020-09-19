@@ -1,1 +1,9 @@
+import csv file 
+read csv file into html using fetch, await response 
+loop through data as a string
+use parseFloat to convert to a number then add 14 (avg temp)
+use chart.js to create chart
+use option to add ° to the labels 
+
+
 
