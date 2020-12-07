@@ -1,3 +1,4 @@
 Here is a home project that I found really interesting. 
-The background of the project is a homemade variation of a pedometer aka Fitbit
-Here I have uploaded/saved all of the data csv, once that is complete I used python to only calculate the data I found valueable. 
+The background of the project is a sensor that attaches to the back of a person head, then counts the amount of times the head turns in a certain direction
+
+Here I have extrapulated the data from the sensor, the saved that to a csv file.once that is complete I used python to only calculate the data I found valueable. 
